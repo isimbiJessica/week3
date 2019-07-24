@@ -58,3 +58,7 @@ body{
 #port{
     text-align: center;
 }
+.row6{
+    display: flex;
+    justify-content: space-around;
+}
