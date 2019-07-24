@@ -4,8 +4,8 @@
     margin-top: -380px;
     position: relative;
     color:white;
-    margin-right: 145px;
-    margin-left: 145px;
+    margin-right: 185px;
+    margin-left: 125px;
 }
 .class{
     text-align: center;
@@ -17,8 +17,8 @@
     position: relative;
     text-align: center;
     margin-top: 40px;
-    margin-right: 245px;
-    margin-left: 245px;
+    margin-right: 285px;
+    margin-left: 225px;
     font-size: 20PX;
 }
 .head{
@@ -33,15 +33,21 @@ body{
 .young{
     text-align: center;
     color:white;
-    margin-top: -150px
+    margin-top: -150px;
+    font-size: 20px;
 }
 .old{
     font-size: 26px;
     font-weight: bold;
-    margin-top: -100px;
-    text-align: center
+    margin-top: -200px;
+    text-align: center;
+    color: white;
 }
 .col-md-12{
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 45px;
+    margin-left: 45px;
+}
+.row4{
+    display: flex;
+    justify-content: space-around;
 }
