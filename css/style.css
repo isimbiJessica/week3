@@ -31,12 +31,9 @@ body{
     background-color: #F0FFF0;
 }
 .young{
-    position: relative;
     text-align: center;
-    margin-top: -80px;
-    margin-right: 245px;
-    margin-left: 245px;
-    font-size: 20PX;
+    color:white;
+    margin-top: -150px
 }
 .old{
     font-size: 26px;
