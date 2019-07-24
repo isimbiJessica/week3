@@ -1,0 +1,26 @@
+#header{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -380px;
+    position: relative;
+    color:white;
+    margin-right: 145px;
+    margin-left: 145px;
+}
+.class{
+    text-align: center;
+    color:white;
+    font-weight:bold;
+
+}
+.two{
+    position: relative;
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 185px;
+    margin-left: 185px;
+}
+.head{
+    font-size: 26px;
+    font-weight: bolder;
+}
