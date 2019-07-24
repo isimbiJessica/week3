@@ -30,3 +30,21 @@
 body{
     background-color: #F0FFF0;
 }
+.young{
+    position: relative;
+    text-align: center;
+    margin-top: -80px;
+    margin-right: 245px;
+    margin-left: 245px;
+    font-size: 20PX;
+}
+.old{
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: -100px;
+    text-align: center
+}
+.col-md-12{
+    margin-right: 15px;
+    margin-left: 15px;
+}
