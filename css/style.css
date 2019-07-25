@@ -68,6 +68,12 @@ body{
 }
 footer{
     background-image: url("/home/wecode/img/c_image.jpg");
-    margin-right: 185px;
-    margin-left: 125px;
+    margin-right: 65px;
+    margin-left: 65px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    color:white;
+    height: 400px;
+    margin-bottom: 36px
 }
