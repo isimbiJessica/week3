@@ -132,21 +132,31 @@
     <footer>
         <h1>C0NTACT US</h1>
         <div class="row7">
-            <div class="col-md-6">
-                    <label for="fname" id="labels">First Name</label> 
-                    <input type="text" id="name" name="firstname">
-            </div>
-            <div class="col-md-6">
-                    <label for="lname" id="labels">Second Name</label> 
-                    <input type="text" id="lname" name="lastname">
-
-            </div>
-        </div>
+                <div class="col-md-6">
+                        <form id="contact-form" method="post" action="">
+                        <input name="name" type="text" class="form-area1" style="background-color: transparent" placeholder="Name" required>         
+                        </div>
+                    <div class="col-md-6">
+                            <input name="email" type="email" class="form-area1" style="background-color: transparent" placeholder="Email" required>         
+                        </div>        
+            </div>   
+            <br>
+        <br>
+        <br>
+        
+            <div class="row9">
+                    <div class="col-md-12">
+                      <textarea name="message" class="form-area" style="background-color: transparent" placeholder="Your Message" rows="10" required> </textarea> <br>     
+                   
+                        </div>
+                        <button> <input type="submit" class="btn-success" id="green" value="Submit"></button>
+                       
+                    </div> 
             
             <br>
             <br>
             <br>
-            <input type="submit" value="Submit">
+            
     </footer>
     <div class="row8">
         <div class="col-md-2">
