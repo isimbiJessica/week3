@@ -66,3 +66,8 @@ body{
     margin-right: 85px;
     margin-left: 85px;
 }
+footer{
+    background-image: url("/home/wecode/img/c_image.jpg");
+    margin-right: 185px;
+    margin-left: 125px;
+}
