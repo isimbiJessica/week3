@@ -84,3 +84,8 @@ footer{
 #labels{
     background-color: transparent;
 }
+.row8{
+    display: flex;
+    justify-content: space-around;
+
+}
