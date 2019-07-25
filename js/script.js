@@ -16,3 +16,8 @@ $(document).ready(function(){
         $("#img3").toggle();
     });
 });
+$(document).ready(function(){
+    $("#green").click(function(){
+        alert(" we have received your message!! thank you for working with us");
+    });
+});
