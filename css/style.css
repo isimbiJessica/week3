@@ -77,3 +77,10 @@ footer{
     height: 400px;
     margin-bottom: 36px
 }
+.row7{
+    display: flex;
+    justify-content: space-around;
+}
+#labels{
+    background-color: transparent;
+}
