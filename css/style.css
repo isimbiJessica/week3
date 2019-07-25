@@ -87,5 +87,7 @@ footer{
 .row8{
     display: flex;
     justify-content: space-around;
+    margin-right: 300px;
+    margin-left: 300px;
 
 }
