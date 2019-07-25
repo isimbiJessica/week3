@@ -54,6 +54,8 @@ body{
 .row5{
     display: flex;
     justify-content: space-around;
+    margin-right: 85px;
+    margin-left: 85px;
 }
 #port{
     text-align: center;
@@ -61,4 +63,6 @@ body{
 .row6{
     display: flex;
     justify-content: space-around;
+    margin-right: 85px;
+    margin-left: 85px;
 }
