@@ -1,11 +1,6 @@
 $(document).ready(function(){
-    $("#hone").click(function(){
-        $("p").toggle();
-      
-
-    })
-
-
-
-
+    $(".all").click(function(){
+        $("#p1").toggle();
+        $("#img1").toggle();
+    });
 });

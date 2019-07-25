@@ -4,12 +4,12 @@
     margin-top: -580px;
     position: relative;
     color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     
 }
 .class{
     text-align: center;
     color:white;
-    font-weight:bold;
 
 }
 .two{
@@ -23,7 +23,7 @@
 .head{
     font-size: 46px;
     font-weight: bolder;
-    margin-top: 100px;
+    margin-top: 120px;
     text-align: center;
 }
 body{
@@ -112,4 +112,7 @@ footer{
 .btn-success{
     background-color: blue;
     font-size: 18px;
+}
+#p1{
+    display: none;
 }
