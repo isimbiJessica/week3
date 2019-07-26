@@ -24,4 +24,6 @@ this Delani Studio is a web which contains
 |-----------------------------------------|---------------------------------------------------|
 |1st Page(Delani Studio)                  |Intro to Delani studio and a their syllogan        |
 |2nd Page(About Us)                       |Describing what Delani do and whay was founded     |
-|3rd Page()
+|3rd Page(Services)                       |Design,Development,Product Management              |
+|4th Page(Portfolio)                      |Ontario,Giraffe Restaurent; Mock up Logo,...       |
+|5th Page()
