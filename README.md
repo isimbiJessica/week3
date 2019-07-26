@@ -45,3 +45,5 @@ this Delani Studio is a web which contains
 phone no:+(250)784967255
 E-mail:jessicaritha@gmail.com
 
+copyright &copy; DelaniStudio,  2019
+
