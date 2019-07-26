@@ -26,4 +26,13 @@ this Delani Studio is a web which contains
 |2nd Page(About Us)                       |Describing what Delani do and whay was founded     |
 |3rd Page(Services)                       |Design,Development,Product Management              |
 |4th Page(Portfolio)                      |Ontario,Giraffe Restaurent; Mock up Logo,...       |
-|5th Page()
+|5th Page(Contact Us)                     |Names, Email, Message                              |
+|6th Page (Social Medias)                 |Twitter;Facebook,GooglePlus,Skype,...              |
+
+### Tools Used To Build Delani Studio
+
+- Bootstrap
+- JavaScript
+- Jquerry
+- Css
+- Html
