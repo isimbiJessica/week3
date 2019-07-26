@@ -3,6 +3,7 @@
 ## DELANI STUDIO
 ## Jessica's Third Project of Prep
 ### Description
+<img url="/home/wecode/Screenshot from 2019-07-26 10-56-18.png">
 this Delani Studio is a web which contains 
 - The Introduction of the page
 - The about what Delani are
