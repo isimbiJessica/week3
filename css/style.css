@@ -66,7 +66,7 @@ body{
     margin-left: 85px;
 }
 footer{
-    background-image: url("/home/wecode/img/c_image.jpg");
+    background-image: url('../img/c_image.jpg');
     margin-right: 65px;
     margin-left: 65px;
     text-align: center;
