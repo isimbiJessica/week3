@@ -148,3 +148,9 @@ footer{
 #huit{
     margin-top: -80px;
 }
+@media only screen and (max-width:800px) {
+    .container-fluid{
+        width: 80%;
+        padding: 0;
+    }
+}

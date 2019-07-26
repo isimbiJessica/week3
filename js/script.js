@@ -14,7 +14,7 @@ $(document).ready(function(){
     
     $("#green").click(function(){
         
-        alert($(".form-are").val() + " We Have Received Yur Message!! Thank You For Working With Us");
+        alert($("#place").val() + " We Have Received Yur Message!! Thank You For Working With Us");
     });
 });
 
