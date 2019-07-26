@@ -13,7 +13,8 @@ $(document).ready(function(){
     });
     
     $("#green").click(function(){
-        alert(" We Have Received Yur Message!! Thank You For Working With Us");
+        
+        alert($(".form-are").val() + " We Have Received Yur Message!! Thank You For Working With Us");
     });
 });
 
