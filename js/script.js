@@ -21,3 +21,6 @@ $(document).ready(function(){
         alert(" we have received your message!! thank you for working with us");
     });
 });
+$("img").hover(function(){
+
+});
