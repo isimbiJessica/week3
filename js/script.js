@@ -16,12 +16,11 @@ $(document).ready(function(){
         $("#img3").toggle();
     });
 });
-function green(){
-    var name = document.getElementById("form-area").Value;
-    var email = document.getElementById("form-area").Value;
-    var message = document.getElementById("form-area").Value;
-}
-alert("We Have Received Your Message!! Thank You For Working With Us!!!")
+$(document).ready(function(){
+    $("#green").click(function(){
+        alert(" We Have Received Yur Message!! Thank You For Working With Us");
+    });
+});
 $("img").hover(function(){
 
 });
