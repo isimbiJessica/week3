@@ -36,3 +36,12 @@ this Delani Studio is a web which contains
 - Jquerry
 - Css
 - Html
+ ## Enjoy the web!!!!
+
+# Author
+  @Jessica Ritha ISIMBI
+
+# Contact
+phone no:+(250)784967255
+E-mail:jessicaritha@gmail.com
+
