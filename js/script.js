@@ -21,7 +21,7 @@ function green(){
     var email = document.getElementById("form-area").Value;
     var message = document.getElementById("form-area").Value;
 }
-alert("we have received your message!! thank you for working with us")
+alert("We Have Received Your Message!! Thank You For Working With Us!!!")
 $("img").hover(function(){
 
 });
